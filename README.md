@@ -8,7 +8,7 @@ Game contains the unzipped build.
 
 Download Game.zip to play (on Windows).
 
-# Team Members
+## Team Members
 Nicholas Logan
 
 Natalie Cordeiro
